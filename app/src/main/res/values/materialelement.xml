@@ -1179,6 +1179,43 @@
     <color name="goldA400">#ffff00</color>
     <color name="goldA700">#c6c801</color>
 
+    <!-- Mustard, Mustard and Bee Yellow -->
+
+    <color name="mustard50">#f9eec8</color>
+    <color name="mustard100">#f9eab6</color>
+    <color name="mustard200">#f9e5a0</color>
+    <color name="mustard300">#fbe189</color>
+    <color name="mustard400">#fbda68</color>
+    <color name="mustard500">#ffdb58</color>
+    <color name="mustard600">#eec842</color>
+    <color name="mustard700">#cfab2f</color>
+    <color name="mustard800">#b89723</color>
+    <color name="mustard900">#977a17</color>
+
+    <color name="mustardA100">#f5be3a</color>
+    <color name="mustardA200">#f0b62a</color>
+    <color name="mustardA400">#e9ab17</color>
+    <color name="mustardA700">#c58d08</color>
+
+
+    <!-- Bee Yellow, Bee Yellow and Saffron -->
+
+    <color name="beeyellow50">#f9dd98</color>
+    <color name="beeyellow100">#f4d079</color>
+    <color name="beeyellow200">#f4c659</color>
+    <color name="beeyellow300">#eeb838</color>
+    <color name="beeyellow400">#eeb326</color>
+    <color name="beeyellow500">#e9ab17</color>
+    <color name="beeyellow600">#daa014</color>
+    <color name="beeyellow700">#c38e0f</color>
+    <color name="beeyellow800">#9f730a</color>
+    <color name="beeyellow900">#795808</color>
+
+    <color name="beeyellowA100">#f9c750</color>
+    <color name="beeyellowA200">#f9c036</color>
+    <color name="beeyellowA400">#fbb917</color>
+    <color name="beeyellowA700">#de9f09</color>
+
     <!-- Khaki, Khaki and PaleGoldenrod -->
 
     <color name="khaki50">#f0eed8</color>
@@ -1270,6 +1307,23 @@
     <color name="orangeredA400">#ff6347</color>
     <color name="orangeredA700">#d3442d</color>
 
+    <!-- Halloween, Halloween orange and Pumpkin Orange -->
+
+    <color name="halloween50">#f9a97d</color>
+    <color name="halloween100">#f4884d</color>
+    <color name="halloween200">#f4884d</color>
+    <color name="halloween300">#f07e3f</color>
+    <color name="halloween400">#eb7635</color>
+    <color name="halloween500">#e66c2c</color>
+    <color name="halloween600">#cf5f22</color>
+    <color name="halloween700">#b44f17</color>
+    <color name="halloween800">#9d410f</color>
+
+    <color name="halloweenA100">#fb9958</color>
+    <color name="halloweenA200">#fb883b</color>
+    <color name="halloweenA400">#f87217</color>
+    <color name="halloweenA700">#da5e0c</color>
+
     <!-- Dark Orange, Dark Orange and orangered -->
 
     <color name="darkorange50">#f5cd9f</color>
@@ -1343,6 +1397,33 @@
     <color name="rosybrown800">#734949</color>
     <color name="rosybrown900">#5c3737</color>
 
+    <!-- Sand -->
+
+    <color name="sand50">#f4eacc</color>
+    <color name="sand100">#eee3c3</color>
+    <color name="sand200">#e9dcb3</color>
+    <color name="sand300">#d9cb9f</color>
+    <color name="sand400">#cebe8f</color>
+    <color name="sand500">#c2b280</color>
+    <color name="sand600">#b4a36e</color>
+    <color name="sand700">#a89660</color>
+    <color name="sand800">#97854f</color>
+    <color name="sand900">#7c6c3b</color>
+
+    <!-- fall Leaf brown -->
+
+    <color name="fallleafbrown50">#f0e5b3</color>
+    <color name="fallleafbrown100">#ebdea0</color>
+    <color name="fallleafbrown200">#e3d48f</color>
+    <color name="fallleafbrown300">#d9c97e</color>
+    <color name="fallleafbrown400">#cfbe6d</color>
+    <color name="fallleafbrown500">#c8b560</color>
+    <color name="fallleafbrown600">#b4a14b</color>
+    <color name="fallleafbrown700">#9d8b39</color>
+    <color name="fallleafbrown800">#877629</color>
+    <color name="fallleafbrown900">#6e601d</color>
+
+
     <!-- Sandy Brown -->
 
 
@@ -1357,6 +1438,18 @@
     <color name="sandybrown800">#bd7432</color>
     <color name="sandybrown900">#a25d20</color>
 
+    <!-- Brass -->
+
+    <color name="brass50">#ebe097</color>
+    <color name="brass100">#e5d987</color>
+    <color name="brass200">#d9cc72</color>
+    <color name="brass300">#cfc165</color>
+    <color name="brass400">#bfb14f</color>
+    <color name="brass500">#b5a642</color>
+    <color name="brass600">#9f9135</color>
+    <color name="brass700">#827624</color>
+    <color name="brass800">#685e1a</color>
+    <color name="brass900">#564d11</color>
 
 
     <!--Peru -->
