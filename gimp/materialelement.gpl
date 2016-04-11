@@ -1,0 +1,451 @@
+Gimp Palette
+Name: Material Element by Fred Grott(GrottWorkShop)
+Columns 5
+
+247  228 221lightsalmon50
+249  215 201lightsalmon100
+253  206 188lightsalmon200
+253  184 157lightsalmon300
+253  174 142lightsalmon400
+255  160 122lightsalmon500
+238  138  98lightsalmon600
+217  117  78lightsalmon700
+193   93  54lightsalmon800
+173   80  43lightsalmon900
+
+242  177 154lightsalmonA100
+236  161 135lightsalmonA200
+233  150 122lightsalmonA400
+211  125  94lightsalmonA700
+
+255  220 216salmon50
+255  213 209salmon100
+251  193 187salmon200
+249  166 157salmon300
+245  140 129salmon400
+250  128 114salmon500
+227  105  93salmon600
+207   86  73salmon700
+186   72  60salmon800
+168   59  48salmon900
+
+244  182 182salmonA100
+245  155 155salmonA200
+240  128 128salmonA400
+217   90  90salmonA700
+
+245  226 226lightcoral50
+249  216 216lightcoral100
+245  191 191lightcoral200
+244  169 169lightcoral300
+244  145 145lightcoral400
+240  128 128lightcoral500
+218  108 108lightcoral600
+386   82  82lightcoral700
+170   68  68lightcoral800
+159   56  56lightcoral900
+
+229  133 133lightcoralA100
+222  111 111lightcoralA200
+205   92  92lightcoralA400
+180   66  66lightcoralA700
+
+251  196 196indianred50
+249  183 183indianred100
+244  163 163indianred200
+235  140 140indianred300
+218  109 109indianred400
+205   92  92indianred500
+186   71  71indianred600
+184   59  59indianred700
+162   49  49indianred800
+137   34  34indianred900
+
+238   66  99indianredA100
+229   37  73indianredA200
+220   20  60indianredA400
+195   11  45indianredA700
+
+240  114 138crimsonred50
+240   88 116crimsonred100
+238   63  96crimsonred200
+233   47  82crimsonred300
+224   29  66crimsonred400
+220   20  60crimsonred500
+195   12  47crimsonred600
+159    9  37crimsonred700
+121    7  28crimsonred800
+103    6  24crimsonred900
+
+251   45  45crimsonredA100
+255   20  20crimsonredA200
+255    0   0crimsonredA400
+218    2   2crimsonredA700
+
+244  158 158firebrick50
+244  127 127firebrick100
+235  103 103firebrick200
+218   76  76firebrick300
+206   57  57firebrick400
+178   34  34firebrick500
+168   25  25firebrick600
+151   20  20firebrick700
+130   14  14firebrick800
+ 97    9   9firebrick900
+
+200    2   2firebrickA100
+164    1   1firebrickA200
+139    0   0firebrickA400
+113    0   0firebrickA700
+
+233    2   2darkred50
+222    1   1darkred100
+206    2   2darkred200
+186    1   1darkred300
+164    1   1darkred400
+139    0   0darkred500
+121    2   2darkred600
+ 99    4   4darkred700
+ 77    3   3darkred800
+ 54    1   1darkred900
+
+217   65  65darkredA100
+202   51  51darkredA200
+178   34  34darkredA400
+162   24  24darkredA700
+
+245  231 233pink50
+251  231 235pink100
+249  220 225pink200
+251  210 216pink300
+255  200 209pink400
+255  192 203pink500
+238  166 178pink600
+218  140 153pink700
+200  118 131pink800
+175   91 105pink900
+
+235  148 177pinkA100
+227  124 158pinkA200
+219  112 147pinkA400
+195   88 123pinkA700
+
+249  232 235lightpink50
+251  221 226lightpink100
+255  209 215lightpink200
+255  200 208lightpink300
+255  190 199lightpink400
+255  182 193lightpink500
+235  157 168lightpink600
+218  136 148lightpink700
+195  113 125lightpink800
+175   95 107lightpink900
+
+255  221 227lightpinkA100
+255  208 216lightpinkA200
+255  192 203lightpinkA400
+227  158 170lightpinkA700
+
+251  197 207hotpink50
+255  181 195hotpink100
+255  159 177hotpink200
+255  139 161hotpink300
+255  120 145hotpink400
+255  105 132hotpink500
+240   89 118hotpink600
+213   68  96hotpink700
+195   53  79hotpink800
+179   42  68hotpink900
+
+255  235 238hotpinkA100
+255  218 224hotpinkA200
+255  192 203hotpinkA400
+235  160 173hotpinkA700
+
+249  105 183deeppink50
+251   88 176deeppink100
+255   73 171deeppink200
+255   46 159deeppink300
+251   31 150deeppink400
+255   20 147deeppink500
+245   15 140deeppink600
+218    9 122deeppink700
+197   11 112deeppink800
+162    7  91deeppink900
+
+249  211 216deeppinkA100
+251  193 201deeppinkA200
+255  182 193deeppinkA400
+233  145 158deeppinkA700
+
+244  106 194mediumvioletred50
+238   77 179mediumvioletred100
+233   62 171mediumvioletred200
+222   44 157mediumvioletred300
+213   32 147mediumvioletred400
+199   21 133mediumvioletred500
+195   15 129mediumvioletred600
+173    9 111mediumvioletred700
+137    4  88mediumvioletred800
+103    3  66mediumvioletred900
+
+238  154 182mediumvioletredA100
+235  136 169mediumvioletredA200
+219  112 147mediumvioletredA400
+197   82 120mediumvioletredA700
+
+238  183 201palevioletred50
+238  169 192palevioletred100
+233  155 181palevioletred200
+227  139 168palevioletred300
+227  126 160palevioletred400
+219  112 147palevioletred500
+211  100 137palevioletred600
+186   79 114palevioletred700
+153   59  90palevioletred800
+126   42  70palevioletred900
+
+224   53 162palevioletredA100
+213   38 149palevioletredA200
+199   21 133palevioletredA400
+179   11 118palevioletredA700
+
+249  226 249plum50
+244  209 244plum100
+235  189 234plum200
+229  174 228plum300
+227  169 226plum400
+221  160 221plum500
+197  134 196plum600
+173  109 172plum700
+137   80 136plum800
+108   61 107plum900
+
+245  176 244plumA100
+244  144 243plumA200
+238  130 238plumA400
+206   98 205plumA700
+
+238  199 238violet50
+240  197 239violet100
+238  177 237violet200
+233  157 232violet300
+238  142 237violet400
+238  130 238violet500
+218  109 217violet600
+189   87 188violet700
+168   69 167violet800
+146   52 145violet900
+
+233  187 232violetA100
+233  177 232violetA200
+221  160 221violetA400
+200  135 199violetA700
+
+244  204 243orchid50
+244  188 242orchid100
+240  162 237orchid200
+235  144 232orchid300
+229  128 225orchid400
+218  112 214orchid500
+200   95 196orchid600
+175   76 172orchid700
+151   59 148orchid800
+130   42 127orchid900
+
+244  165 243orchidA100
+245  150 244orchidA200
+238  130 238orchidA400
+206   97 205orchidA700
+
+249  145 248fuchsia50
+245  121 244fuchsia100
+249   88 247fuchsia200
+251   44 249fuchsia300
+255   14 252fuchsia400
+255    0 255fuchsia500
+240    1 237fuchsia600
+213    1 211fuchsia700
+157    1 155fuchsia800
+110    1 109fuchsia900
+
+244  170 241fuchsiaA100
+233  135 230fuchsiaA200
+218  112 214fuchsiaA400
+197   89 193fuchsiaA700
+
+233  186 245mediumorchid50
+228  166 244mediumorchid100
+222  150 240mediumorchid200
+213  126 235mediumorchid300
+199  105 222mediumorchid400
+186   85 211mediumorchid500
+170   69 195mediumorchid600
+150   56 173mediumorchid700
+132   46 153mediumorchid800
+116   38 135mediumorchid900
+
+235  184 234mediumorchidA100
+227  174 226mediumorchidA200
+221  160 221mediumorchidA400
+191  124 190mediumorchidA700
+
+220  209 244mediumpurple50
+209  191 245mediumpurple100
+198  175 244mediumpurple200
+184  154 244mediumpurple300
+166  133 233mediumpurple400
+147  112 219mediumpurple500
+133   98 206mediumpurple600
+106   73 175mediumpurple700
+ 85   54 146mediumpurple800
+ 64   37 119mediumpurple900
+
+175  101 244mediumpurpleA100
+159   75 238mediumpurpleA200
+138   43 226mediumpurpleA400
+101   17 180mediumpurpleA700
+
+218  199 238amethyst50
+209  183 235amethyst100
+197  162 233amethyst200
+180  136 224amethyst300
+171  121 222amethyst400
+153  102 204amethyst500
+133   82 186amethyst600
+111   65 159amethyst700
+ 90   48 132amethyst800
+ 70   33 108amethyst900
+
+187  167 229amethystA100
+169  140 229amethystA200
+147  112 219amethystA400
+124   89 197amethystA700
+
+195  148 238blueviolet50
+181  119 238blueviolet100
+170   97 238blueviolet200
+161   77 240blueviolet300
+150   58 235blueviolet400
+138   43 226blueviolet500
+124   34 297blueviolet600
+108   23 186blueviolet700
+ 85   14 151blueviolet800
+ 70   10 126blueviolet900
+
+169    2 238bluevioletA100
+155    0 220bluevioletA200
+148    0 211bluevioletA400
+124    0 175bluevioletA700
+
+183   11 255darkviolet50
+176    5 247darkviolet100
+169    5 238darkviolet200
+163    1 231darkviolet300
+157    2 222darkviolet400
+148    0 211darkviolet500
+141    3 198darkviolet600
+131    3 184darkviolet700
+119    1 168darkviolet800
+ 93    3 130darkviolet900
+
+166   85 242darkvioletA100
+153   63 236darkvioletA200
+138   43 226darkvioletA400
+118   30 200darkvioletA700
+
+212  149 244darkorchid50
+209  142 244darkorchid100
+200  120 242darkorchid200
+182   86 231darkorchid300
+167   66 220darkorchid400
+153   50 204darkorchid500
+137   38 189darkorchid600
+120   28 168darkorchid700
+100   20 141darkorchid800
+ 79   13 113darkorchid900
+
+187  143 233darkorchidA100
+173  124 222darkorchidA200
+153  102 204darkorchidA400
+130   76 184darkorchidA700
+
+244    2 241darkmagenta50
+231    5 228darkmagenta100
+204    4 202darkmagenta200
+175    1 173darkmagenta300
+150    3 148darkmagenta400
+139    0 139darkmagenta500
+122    2 121darkmagenta600
+ 97    3  96darkmagenta700
+ 74    2  73darkmagenta800
+ 47    1  46darkmagenta900
+
+171   71 222darkmagentaA100
+179   83 229darkmagentaA200
+153   50 204darkmagentaA400
+131   33 182darkmagentaA700
+
+147   10 242indigo50
+139    5 233indigo100
+126    4 211indigo200
+112    4 188indigo300
+ 94    3 157indigo400
+ 75    0 130indigo500
+ 64    1 108indigo600
+ 51    1  86indigo700
+ 38    2  63indigo800
+ 21    1  36indigo900
+
+154  141  236indigoA100
+134  119  222indigoA200
+106   90  205indigoA400
+ 88   72  186indigoA700
+
+184  175  236slateblue50
+170  159  236slateblue100
+157  144  233slateblue200
+136  123  220slateblue300
+123  108  211slateblue400
+106   90  205slateblue500
+ 88   71  186slateblue600
+ 74   59  168slateblue700
+ 60   46  146slateblue800
+ 44   32  121slateblue900
+
+109    3  184slateblueA100
+ 96    1  162slateblueA200
+ 75    0  130slateblueA400
+ 57    0   97slateblueA700
+
+174  166  222darkslateblue50
+156  147  211darkslateblue100
+133  123  193darkslateblue200
+110  100  171darkslateblue300
+ 86   75  150darkslateblue400
+ 72   61  139darkslateblue500
+ 55   45  119darkslateblue600
+ 41   32   95darksalteblue700
+ 28   21   74darkslateblue800
+ 14    9   41darkslatelbue900
+
+157  144  233darkslateblueA100
+133  118  220darkslateblueA200
+106   90  205darkslateblueA400
+ 79   63  173darkslateblueA700
+
+224  219  253mediumslateblue50
+215  208  255mediumslateblue100
+190  180  253mediumslateblue200
+173  160  249mediumslateblue300
+145  128  244mediumslateblue400
+123  104  238mediumslateblue500
+109   90  224mediumslateblue600
+ 93   74  204mediumslateblue700
+ 76   58  186mediumslateblue800
+ 59   43  162mediumslateblue900
+
+113  101  186mediumslateblueA100
+ 89   77  162mediumslatelbueA200
+ 72   61  139mediumslateblueA400
+ 66   54  139mediumslateblueA700

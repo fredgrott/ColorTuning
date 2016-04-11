@@ -26,6 +26,11 @@
 
     <!-- Salmon, Salmon and Light Coral -->
 
+    <color name="salmon50">#ffdcd8</color>
+    <color name="salmon100">#ffd5d1</color>
+    <color name="salmon200">#fbc1bb</color>
+    <color name="salmon300">#f9a69d</color>
+    <color name="salmon400">#f58c81</color>
     <color name="salmon500">#fa8072</color>
     <color name="salmon600">#e3695d</color>
     <color name="salmon700">#cf5649</color>
@@ -57,6 +62,11 @@
 
     <!-- Indian Red, Indiana Red and Crimson -->
 
+    <color name="indianred50">#fbc4c4</color>
+    <color name="indianred100">#f9b7b7</color>
+    <color name="indianred200">#f4a3a3</color>
+    <color name="indianred300">#eb8c8c</color>
+    <color name="indianred400">#da6d6d</color>
     <color name="indianred500">#cd5c5c</color>
     <color name="indianred600">#ba4747</color>
     <color name="indianred700">#b83b3b</color>
@@ -218,7 +228,7 @@
 
     <!-- Pale Violet Red, Pale Violet Red and Medium Violet Red -->
 
-    <color name="plaevioletred50">#eeb7c9</color>
+    <color name="palevioletred50">#eeb7c9</color>
     <color name="palevioletred100">#eea9c0</color>
     <color name="palevioletred200">#e99bb5</color>
     <color name="palevioletred300">#e38ba8</color>
@@ -339,7 +349,7 @@
     <color name="mediumpurple800">#553692</color>
     <color name="mediumpurple900">#402577</color>
 
-    <color name="mediumprupleA100">#af65f4</color>
+    <color name="mediumpurpleA100">#af65f4</color>
     <color name="mediumpurpleA200">#9f4bee</color>
     <color name="mediumpurpleA400">#8a2be2</color>
     <color name="mediumpurpleA700">#6511b4</color>
@@ -364,8 +374,8 @@
 
     <!-- Blue Violet, Blue Violet and Dark Violet -->
 
-    <color name="bleuviolet50">#c394ee</color>
-    <color name="bleuviolet100">#b577ee</color>
+    <color name="blueviolet50">#c394ee</color>
+    <color name="blueviolet100">#b577ee</color>
     <color name="blueviolet200">#aa61ee</color>
     <color name="blueviolet300">#a14df0</color>
     <color name="blueviolet400">#963aeb</color>
@@ -376,9 +386,9 @@
     <color name="blueviolet900">#460a7e</color>
 
     <color name="bluevioletA100">#a902ee</color>
-    <color name="bleuvioletA200">#9b00dc</color>
+    <color name="bluevioletA200">#9b00dc</color>
     <color name="bluevioletA400">#9400d3</color>
-    <color name="bleuvioletA700">#7c00af</color>
+    <color name="bluevioletA700">#7c00af</color>
 
     <!-- Dark Violet, Dark Violet and Blue Violet -->
 
@@ -389,7 +399,7 @@
     <color name="darkviolet400">#9d02de</color>
     <color name="darkviolet500">#9400d3</color>
     <color name="darkviolet600">#8d03c6</color>
-    <color name="darkviolet700">#8d03c6</color>
+    <color name="darkviolet700">#8303b8</color>
     <color name="darkviolet800">#7701a8</color>
     <color name="darkviolet900">#5d0382</color>
 
@@ -430,7 +440,7 @@
     <color name="darkmagenta900">#2f012e</color>
 
     <color name="darkmagentaA100">#ab47de</color>
-    <color name="darkmagentaA200">#ab47de</color>
+    <color name="darkmagentaA200">#b353e5</color>
     <color name="darkmagentaA400">#9932cc</color>
     <color name="darkmagentaA700">#8321b6</color>
 
