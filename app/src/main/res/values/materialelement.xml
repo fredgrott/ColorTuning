@@ -1780,6 +1780,19 @@
     <color name="jetgray800">#2b3542</color>
     <color name="jetgray900">#202732</color>
 
+    <!-- Blue Gray -->
+
+    <color name="bluegray50">#e1e7ee</color>
+    <color name="bluegray100">#d8e3ee</color>
+    <color name="bluegray200">#c9d7e5</color>
+    <color name="bluegray300">#becede</color>
+    <color name="bluegray400">#a7bdd3</color>
+    <color name="bluegray500">#98afc7</color>
+    <color name="bluegray600">#8aa2ba</color>
+    <color name="bluegray700">#728ba4</color>
+    <color name="bluegray800">#597189</color>
+    <color name="bluegray900">#475d73</color>
+
 
     <!-- Other blacks -->
 
