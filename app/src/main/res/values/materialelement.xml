@@ -751,6 +751,116 @@
     <color name="lightcoralA400">#cd5c5c</color>
     <color name="lightcoralA700">#b44242</color>
 
+    <!-- Valentine red, Valentine Red and Bean red -->
+
+    <color name="valentinered50">#fbc8c7</color>
+    <color name="valentinered100">#f9b7b6</color>
+    <color name="valentinered200">#f9a09e</color>
+    <color name="valentinered300">#f58380</color>
+    <color name="valentinered400">#f06764</color>
+    <color name="valentinered500">#e55451</color>
+    <color name="valentinered600">#d34642</color>
+    <color name="valentinered700">#b8312e</color>
+    <color name="valentinered800">#9d211e</color>
+    <color name="valentinered900">#7e1310</color>
+
+    <color name="valentineredA100">#f9a3a1</color>
+    <color name="valentineredA200">#f9807d</color>
+    <color name="valentineredA400">#f75d59</color>
+    <color name="valentineredA700">#c53a37</color>
+
+    <!-- Red, Red and Valentine Red -->
+
+    <color name="red50">#f99e9e</color>
+    <color name="red100">#fb9090</color>
+    <color name="red200">#fb6464</color>
+    <color name="red300">#f93c3c</color>
+    <color name="red400">#fb1a1a</color>
+    <color name="red500">#ff0000</color>
+    <color name="red600">#d90000</color>
+    <color name="red700">#ad0101</color>
+    <color name="red800">#820202</color>
+    <color name="red900">#5e0101</color>
+
+    <color name="redA100">#f58b88</color>
+    <color name="redA200">#f4716e</color>
+    <color name="redA400">#e55451</color>
+    <color name="redA700">#bf3431</color>
+
+
+
+
+    <!-- Scarlet, Scarlet and Shocking Orange -->
+
+    <color name="scarlet50">#f9836f</color>
+    <color name="scarlet100">#fb715b</color>
+    <color name="scarlet200">#fb5c42</color>
+    <color name="scarlet300">#fb4122</color>
+    <color name="scarlet400">#fb2f0e</color>
+    <color name="scarlet500">#ff2400</color>
+    <color name="scarlet600">#e32000</color>
+    <color name="scarlet700">#c51c00</color>
+    <color name="scarlet800">#a41801</color>
+    <color name="scarlet900">#711102</color>
+
+    <color name="scarletA100">#f57d61</color>
+    <color name="scarletA200">#f06a4b</color>
+    <color name="scarletA400">#e55b3c</color>
+    <color name="scarletA700">#ca4729</color>
+
+    <!-- ruby Red, Ruby Red and Ferrari Red -->
+
+    <color name="rubyred50">#fb948f</color>
+    <color name="rubyred100">#f9827c</color>
+    <color name="rubyred200">#fb6f68</color>
+    <color name="rubyred300">#fb4e46</color>
+    <color name="rubyred400">#fb362c</color>
+    <color name="rubyred500">#f62217</color>
+    <color name="rubyred600">#e3180e</color>
+    <color name="rubyred700">#ca130a</color>
+    <color name="rubyred800">#a40d05</color>
+    <color name="rubyred900">#820a04</color>
+
+    <color name="rubyredA100">#f9535b</color>
+    <color name="rubyredA200">#f93039</color>
+    <color name="rubyredA400">#f70d1a</color>
+    <color name="rubyredA700">#c8030c</color>
+
+    <!-- Lava Red, Lava Red and Fire Engine red -->
+
+    <color name="lavared50">#f46f68</color>
+    <color name="lavared100">#f5635c</color>
+    <color name="lavared200">#f95148</color>
+    <color name="lavared300">#f4382f</color>
+    <color name="lavared400">#ee2a21</color>
+    <color name="lavared500">#e42217</color>
+    <color name="lavared600">#cf160d</color>
+    <color name="lavared700">#bd120a</color>
+    <color name="lavared800">#a81009</color>
+    <color name="lavared900">#890b04</color>
+
+    <color name="lavaredA100">#f54b3e</color>
+    <color name="lavaredA200">#f53829</color>
+    <color name="lavaredA400">#f62817</color>
+    <color name="lavaredA700">#e01d0e</color>
+
+    <!-- Love Red, Love Red and Lava red-->
+
+    <color name="lovered100">#f56562</color>
+    <color name="lovered200">#f9514d</color>
+    <color name="lovered300">#f43834</color>
+    <color name="lovered400">#f0231e</color>
+    <color name="lovered500">#e41b17</color>
+    <color name="lovered600">#d9130e</color>
+    <color name="lovered700">#bf110d</color>
+    <color name="lovered800">#a20905</color>
+    <color name="lovered900">#8d0804</color>
+
+    <color name="loveredA100">#f54138</color>
+    <color name="loveredA200">#ee3127</color>
+    <color name="loveredA400">#e42217</color>
+    <color name="loveredA700">#cf160d</color>
+
     <!-- Indian Red, Indiana Red and Crimson -->
 
     <color name="indianred50">#fbc4c4</color>
@@ -786,6 +896,42 @@
     <color name="crimsonredA200">#ff1414</color>
     <color name="crimsonredA400">#ff0000</color>
     <color name="crimsonredA700">#da0202</color>
+
+    <!-- Cherry red, Cherry Red and Grapefruit -->
+
+    <color name="cherryred50">#f59995</color>
+    <color name="cherryred100">#ee847f</color>
+    <color name="cherryred200">#eb736d</color>
+    <color name="cherryred300">#e3655e</color>
+    <color name="cherryred400">#d55650</color>
+    <color name="cherryred500">#c24641</color>
+    <color name="cherryred600">#af3630</color>
+    <color name="cherryred700">#992a24</color>
+    <color name="cherryred800">#7e201b</color>
+    <color name="cherryred900">#6e1713</color>
+
+    <color name="cherryredA100">#f46851</color>
+    <color name="cherryredA200">#eb482d</color>
+    <color name="cherryredA400">#dc381f</color>
+    <color name="cherryredA700">#bf2c13</color>
+
+    <!-- Grapefruit, Grapefruit and Cherry Red -->
+
+    <color name="grapefruit50">#f09283</color>
+    <color name="grapefruit100">#ee8776</color>
+    <color name="grapefruit200">#f07460</color>
+    <color name="grapefruit300">#eb5941</color>
+    <color name="grapefruit400">#e5462c</color>
+    <color name="grapefruit500">#dc381f</color>
+    <color name="grapefruit600">#c82c13</color>
+    <color name="grapefruit700">#b4260e</color>
+    <color name="grapefruit800">#971e0a</color>
+    <color name="grapefruit900">#731304</color>
+
+    <color name="grapefruitA100">#d35d57</color>
+    <color name="grapefruitA200">#bf4b45</color>
+    <color name="grapefruitA400">#c24641</color>
+    <color name="grapefruitA700">#a8312b</color>
 
     <!-- firebrick, firebrick and dark red -->
 
@@ -862,6 +1008,42 @@
     <color name="tomatoA400">#ff7f50</color>
     <color name="tomatoA700">#ce562c</color>
 
+    <!-- Papaya Orange, Papaya Orange and Tiger Orange -->
+
+    <color name="papayaorange50">#ffd1b2</color>
+    <color name="papayaorange100">#fdbe94</color>
+    <color name="papayaorange200">#ffad76</color>
+    <color name="papayaorange300">#fd944e</color>
+    <color name="papayaorange400">#f27a2b</color>
+    <color name="papayaorange500">#e56717</color>
+    <color name="papayaorange600">#ce5c10</color>
+    <color name="papayaorange700">#a2470a</color>
+    <color name="papayaorange800">#713106</color>
+    <color name="papayaorange900">#512101</color>
+
+    <color name="papayaorangeA100">#eead73</color>
+    <color name="papayaorangeA200">#dc9658</color>
+    <color name="papayaorangeA400">#c88141</color>
+    <color name="papayaorangeA700">#9d5c23</color>
+
+    <!-- Tiger Orange, Tiger Orange and Papaya Orange -->
+
+    <color name="tigerorange50">#f9d4b4</color>
+    <color name="tigerorange100">#f9c597</color>
+    <color name="tigerorange200">#f2b279</color>
+    <color name="tigerorange300">#e39d5e</color>
+    <color name="tigerorange400">#d38948</color>
+    <color name="tigerorange500">#c88141</color>
+    <color name="tigerorange600">#b37237</color>
+    <color name="tigerorange700">#975c28</color>
+    <color name="tigerorange800">#854f20</color>
+    <color name="tigerorange900">#6a3c13</color>
+
+    <color name="tigerorangeA100">#f78b44</color>
+    <color name="tigerorangeA200">#f27928</color>
+    <color name="tigerorangeA400">#e56717</color>
+    <color name="tigerorangeA700">#c3540a</color>
+
     <!-- OrangeRed, OrangeRed and Tomato -->
 
     <color name="orangered100">#ff9f79</color>
@@ -916,6 +1098,7 @@
 
 
 
+
     <!-- Yellows -->
     <!-- Khaki, Khaki and PaleGoldenrod -->
 
@@ -953,6 +1136,80 @@
     <color name="darkkhakiA400">#f0e68c</color>
     <color name="darkkhakiA700">#c3b85c</color>
 
+    <!-- Harvest Gold, Harvest Gold and Orange Gold -->
+
+    <color name="harvestgold50">#f9f8eb</color>
+    <color name="harvestgold100">#f5f3d7</color>
+    <color name="harvestgold200">#f0ecbb</color>
+    <color name="harvestgold300">#f4eda4</color>
+    <color name="harvestgold400">#f4eb88</color>
+    <color name="harvestgold500">#ede275</color>
+    <color name="harvestgold600">#d1c75b</color>
+    <color name="harvestgold700">#afa642</color>
+    <color name="harvestgold800">#8d852c</color>
+    <color name="harvestgold900">#5e5818</color>
+
+    <color name="harvestgoldA100">#eec042</color>
+    <color name="harvestgoldA200">#e3b22e</color>
+    <color name="harvestgoldA400">#d4a017</color>
+    <color name="harvestgoldA700">#ad8109</color>
+
+
+    <!-- Goldenrod, Goldenrod and Carmel -->
+
+    <color name="goldenrod50">#fbf8e6</color>
+    <color name="goldenrod100">#f5f1d8</color>
+    <color name="goldenrod200">#f5efcf</color>
+    <color name="goldenrod300">#f4eab2</color>
+    <color name="goldenrod400">#f4e592</color>
+    <color name="goldenrod500">#edda74</color>
+    <color name="goldenrod600">#dac760</color>
+    <color name="goldenrod700">#af9e41</color>
+    <color name="goldenrod800">#87792a</color>
+    <color name="goldenrod900">#635819</color>
+
+
+    <color name="goldenrodA100">#e9b444</color>
+    <color name="goldenrodA200">#daa32e</color>
+    <color name="goldenrodA400">#c68e17</color>
+    <color name="goldenrodA700">#a2730d</color>
+
+    <!-- Sun Yellow, Sun Yellow and SchoolBus Yellow -->
+
+    <color name="sunyellow50">#f5f0db</color>
+    <color name="sunyellow100">#f9f3d6</color>
+    <color name="sunyellow200">#f9eebc</color>
+    <color name="sunyellow300">#fbedac</color>
+    <color name="sunyellow400">#ffec92</color>
+    <color name="sunyellow500">#ffe87c</color>
+    <color name="sunyellow600">#ebd362</color>
+    <color name="sunyellow700">#c8b148</color>
+    <color name="sunyellow800">#af9933</color>
+    <color name="sunyellow900">#978326</color>
+
+    <color name="sunyellowA100">#f0b23b</color>
+    <color name="sunyellowA200">#f0ac28</color>
+    <color name="sunyellowA400">#e8a317</color>
+    <color name="sunyellowA700">#c8870a</color>
+
+    <!-- Bright Gold, Bright Gold and Beer-->
+
+    <color name="brightgold50">#f9efc9</color>
+    <color name="brightgold100">#fbebac</color>
+    <color name="brightgold200">#f5df88</color>
+    <color name="brightgold300">#f9dc67</color>
+    <color name="brightgold400">#fbd335</color>
+    <color name="brightgold500">#fdd017</color>
+    <color name="brightgold600">#deb40e</color>
+    <color name="brightgold700">#b3910b</color>
+    <color name="brightgold800">#896f06</color>
+    <color name="brightgold900">#5e4c04</color>
+
+    <color name="brightgoldA100">#f9c85e</color>
+    <color name="brightgoldA200">#f9bd3e</color>
+    <color name="brightgoldA400">#fbb117</color>
+    <color name="brightgoldA700">#da9809</color>
+
     <!-- Gold, Gold and Yellow -->
 
     <color name="gold50">#f5e695</color>
@@ -989,6 +1246,23 @@
     <color name="mustardA400">#e9ab17</color>
     <color name="mustardA700">#c58d08</color>
 
+    <!-- Cantaloupe, Cantaloupe and Brown Sugar -->
+
+    <color name="cantaloupe50">#ffe4c1</color>
+    <color name="cantaloupe100">#fbd7a9</color>
+    <color name="cantaloupe200">#fbcb8c</color>
+    <color name="cantaloupe300">#fbbb68</color>
+    <color name="cantaloupe400">#ffb24f</color>
+    <color name="cantaloupe500">#ffa62f</color>
+    <color name="cantaloupe600">#e08c1f</color>
+    <color name="cantaloupe700">#c37816</color>
+    <color name="cantaloupe800">#975909</color>
+    <color name="cantaloupe900">#734304</color>
+
+    <color name="cantaloupeA100">#f9d3ae</color>
+    <color name="cantaloupeA200">#ebbb8d</color>
+    <color name="cantaloupeA400">#e2a76f</color>
+    <color name="cantaloupeA700">#b37e4a</color>
 
     <!-- Bee Yellow, Bee Yellow and Saffron -->
 
